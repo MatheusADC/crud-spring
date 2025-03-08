@@ -34,4 +34,8 @@ build/
 
 ### Others ###
 application.properties
+application-dev.properties
+application-test.properties
+application-production.properties
 api.http
+compose.yaml
