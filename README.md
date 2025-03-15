@@ -9,3 +9,8 @@ A project that implements CRUD operations using the Spring framework.
 ```
 mvn clean spring-boot:run
 ```
+
+### Run MySQL Container
+```
+docker compose up -d
+```
